@@ -1,5 +1,5 @@
 {
-    "name": "asgardaec/asgards-middleware",
+    "name": "asgardaec/AsgardsMiddleware",
     "description": "\"Laravel api middleware custom - internal used only\"",
     "type": "library",
     "license": "MIT",
